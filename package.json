@@ -1,6 +1,6 @@
 {
     "name": "sayandeveloper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Sayan Samanta <samantasayan23@gmail.com>",
     "description": "A personal card for Sayan Samanta",
     "main": "card.js",
